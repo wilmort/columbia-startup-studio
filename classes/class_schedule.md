@@ -8,7 +8,7 @@
 
 ## Course Milestones
 
-A high-level view of what you'll accomplish each phase:
+The course follows the canonical validation sequence: **Problem → Solution → Demand → Build.** Every major startup framework converges on this order — Lean Startup, Customer Development, The Mom Test, Running Lean. Teams that skip stages or do them out of order build things nobody wants.
 
 ### EXPLORE (Weeks 1-2)
 > Discover problems worth solving. Meet potential teammates.
@@ -21,57 +21,64 @@ A high-level view of what you'll accomplish each phase:
 > Lock in your team and problem space.
 
 - Form teams of 4-5
-- Divergent thinking exercises
+- Divergent+Convergent thinking exercises
 - Generate multiple ideas before committing
 
-### VALIDATE (Week 4)
-> Talk to real people. Is this problem real?
+### PROBLEM + SOLUTION VALIDATION (Week 4)
+> Talk to real people. Is this problem real? Does your solution idea resonate?
 
-- User interviews (concept validation)
-- Define your target audience based on learnings
-- **Checkpoint:** Do people actually have this problem?
+- Problem interviews — talk to 5+ potential users
+- Include solution signal questions at the end of each interview (pitch the concept, gauge reaction, ask for commitments)
+- Define your target audience from interview learnings
+- **Checkpoint:** Do people have this problem, and does your proposed solution excite them?
 
-### PROTOTYPE (Week 5)
-> Build something fake to test real demand.
+### SOLUTION VALIDATION (Week 5)
+> Propose a solution and stress-test it before spending money.
 
-- Build vaporware site (looks real, isn't)
-- Wizard of Oz testing
-- Prepare for ad campaign
+- Generate multiple brand positioning options with AI
+- Test positions against synthetic user personas (built from real interview data, confidence metrics)
+- Build landing page using the positioning that resonates most
+- Refine into one strong version
+- **Checkpoint:** Does this solution resonate with the people who have the problem?
 
-### BUILD + TEST (Weeks 6-7)
-> Start building for real while testing demand.
+### DEMAND VALIDATION (Week 6)
+> Drive real traffic. Will strangers express interest?
 
-- Run paid ads to vaporware site
-- Start building actual MVP (parallel track)
-- MVP presentations + feedback
+- Drive traffic to landing page (social channels + paid ads)
+- Collect waitlist signups / demand signals
+- Analyze results, iterate on page as needed
+- **Checkpoint:** Will strangers pay attention and sign up?
 
-### ITERATE (Week 8 + Spring Break)
-> Build based on what you learned.
+### BUILD (Weeks 7-8)
+> Start building for real. MVP by spring break.
 
-- Continue MVP development
-- Integrate learnings from ad campaign
-- *Spring Break: Keep building if you want*
+- Build the real product — with AI-accelerated development, basic workflows can ship fast
+- For problems you can't solve immediately (marketplace cold-start, algorithm building), use Wizard of Oz or concierge techniques to fake the hard parts
+- Run experiment 2 (new channel, pricing test, or social validation)
+- **MVP Presentations** before spring break (peer feedback)
+- *Spring Break*
 
-### SCALE (Weeks 9-10)
-> Second experiment cycle. Measure what matters.
+### ITERATE + SCALE (Weeks 9-10)
+> Second experiment cycle. Keep building.
 
-- Second ad campaign
+- Post-break check-in and experiment planning
+- Run experiment 3
 - Analytics deep dive
-- Feature iteration based on data
+- **Feature freeze** end of Week 10
 
-### POLISH (Week 11)
-> Final user feedback. Last chance to iterate.
+### MEASURE + NARRATIVE (Week 11)
+> Product is frozen. Collect your results for Demo Day.
 
-- Final user testing session
-- Integration of feedback
-- Feature freeze prep
+- Final measurement round (usage data, quotes, metrics — product doesn't change)
+- Build pitch narrative from experiment results
+- **Checkpoint:** What's the story your data tells?
 
 ### SHIP (Weeks 12-13)
 > Tell your story. Demo Day.
 
 - Build presentations and pitches
 - Practice and refine
-- **Demo Day: April 21**
+- **Demo Day: ~April 21** (date/venue TBD)
 
 ---
 
@@ -84,26 +91,26 @@ A high-level view of what you'll accomplish each phase:
 | **2**  | Thu | Jan 29        | c3w2   | HW review, Fermi estimation for audience sizing          | Explore   | -                                                         |
 | **3**  | Tue | Feb 3         | c4w3   | Team formation                                           | Form      | -                                                         |
 | **3**  | Thu | Feb 5         | c5w3   | Divergent thinking, idea generation                      | Form      | -                                                         |
-| **4**  | Tue | Feb 10        | c6w4   | User interviews (concept validation)                     | Validate  | *The Mom Test* excerpts                                   |
-| **4**  | Thu | Feb 12        | c7w4   | Define audience based on interview learnings             | Validate  | -                                                         |
-| **5**  | Tue | Feb 17        | c8w5   | Build vaporware site                                     | Prototype | *Sprint* prototype chapter                                |
-| **5**  | Thu | Feb 19        | c9w5   | Wizard of Oz testing                                     | Prototype | -                                                         |
-| **6**  | Tue | Feb 24        | c10w6  | Run ads + start building MVP                             | Build     | *Meta Blueprint* certification, *Hacking Growth* excerpts |
-| **6**  | Thu | Feb 26        | c11w6  | Analyze ads, continue building                           | Build     | -                                                         |
-| **7**  | Tue | Mar 3         | c12w7  | Build MVP sprint                                         | Build     | *Lean Startup* MVP chapter                                |
-| **7**  | Thu | Mar 5         | c13w7  | MVP Presentations + feedback                             | Build     | -                                                         |
-| **8**  | Tue | Mar 10        | c14w8  | Iterate on MVP based on feedback                         | Iterate   | *Design of Everyday Things* (Ch. 1-2)                     |
-| **8**  | Thu | Mar 12        | c15w8  | Continue building                                        | Iterate   | *Design of Everyday Things* (Ch. 3-4)                     |
-|        |     | **Mar 16-20** |        | **SPRING BREAK - NO CLASSES**                            |           |                                                           |
-| **9**  | Tue | Mar 24        | c16w9  | Build sprint (single class week)                         | Scale     | *Design of Everyday Things* (Ch. 5-end)                   |
+| **4**  | Tue | Feb 10        | c6w4   | Problem + solution interviews                            | Validate  | *The Mom Test* excerpts                                   |
+| **4**  | Thu | Feb 12        | c7w4   | Define target audience from interview learnings          | Validate  | -                                                         |
+| **5**  | Tue | Feb 17        | c8w5   | Generate brand positions → test with synthetic users → build landing page | Solution  | -                                                         |
+| **5**  | Thu | Feb 19        | c9w5   | Analyze pre-flight results, refine page                  | Solution  | -                                                         |
+| **6**  | Tue | Feb 24        | c10w6  | Drive traffic (social/ads) → waitlist. Dev one-sheet     | Demand    | *Hacking Growth* excerpts                                 |
+| **6**  | Thu | Feb 26        | c11w6  | Analyze demand test results, iterate on page             | Demand    | -                                                         |
+| **7**  | Tue | Mar 3         | c12w7  | Start building real product. Dev workflow intro          | Build     | *Lean Startup* MVP chapter                                |
+| **7**  | Thu | Mar 5         | c13w7  | Build sprint. Design experiment 2                        | Build     | -                                                         |
+| **8**  | Tue | Mar 10        | c14w8  | Build sprint. Review experiment 2 results                | Build     | -                                                         |
+| **8**  | Thu | Mar 12        | c15w8  | **MVP Presentations** + peer feedback                    | Build     | -                                                         |
+|        |     | **Mar 16-20** |        | **SPRING BREAK - NO CLASSES**               |           |                                                           |
+| **9**  | Tue | Mar 24        | c16w9  | Post-break check-in. Plan experiment 3                   | Iterate   | -                                                         |
 |        |     | ~~Mar 26~~    |        | ~~Academic Holiday - No Class~~                          |           |                                                           |
-| **10** | Tue | Mar 31        | c17w10 | Second ad campaign                                       | Scale     | *Google Analytics* intro                                  |
-| **10** | Thu | Apr 2         | c18w10 | Analytics deep dive                                      | Scale     | -                                                         |
-| **11** | Tue | Apr 7         | c19w11 | Final user testing                                       | Polish    | *Portigal, Interviewing Users*                            |
-| **11** | Thu | Apr 9         | c20w11 | Integrate feedback, feature freeze                       | Polish    | -                                                         |
+| **10** | Tue | Mar 31        | c17w10 | Run experiment 3                                         | Scale     | *Google Analytics* intro                                  |
+| **10** | Thu | Apr 2         | c18w10 | Analyze results. **Feature freeze**                      | Scale     | -                                                         |
+| **11** | Tue | Apr 7         | c19w11 | Final measurement round (product frozen, collect pitch data) | Measure | -                                                         |
+| **11** | Thu | Apr 9         | c20w11 | Build pitch narrative from experiment results             | Narrative | -                                                         |
 | **12** | Tue | Apr 14        | c21w12 | Build presentations                                      | Ship      | *Duarte, Resonate* + *Sequoia Pitch Deck Outline*         |
 | **12** | Thu | Apr 16        | c22w12 | Pitch practice                                           | Ship      | -                                                         |
-| **13** | Tue | Apr 21        | c23w13 | **Demo Day**                                             | Ship      | -                                                         |
+| **13** | Tue | ~Apr 21       | c23w13 | **Demo Day** (date/venue TBD)                            | Ship      | -                                                         |
 
 ---
 
@@ -119,14 +126,15 @@ A high-level view of what you'll accomplish each phase:
 
 Teams run structured experiments throughout the course:
 
-| Week | Experiment | Key Question |
-|------|------------|--------------|
-| 4 | User Interviews | Do people actually have this problem? |
-| 5 | Wizard of Oz | Will people engage with a fake solution? |
-| 6 | Ad Campaign #1 | Will strangers pay attention? (demand signal) |
-| 7 | MVP Presentation | Is our solution coherent? (peer feedback) |
-| 10 | Ad Campaign #2 | Can we improve on our first results? |
-| 11 | Final User Test | Does the real product solve the problem? |
+| Week | Phase | Experiment | Key Question |
+|------|-------|------------|--------------|
+| 4 | **Problem** | Problem Interviews | Do people actually have this problem? |
+| 5 | **Solution** | Synthetic Pre-flight | Does our proposed solution resonate with target personas? |
+| 6 | **Demand** | Demand Test (traffic → waitlist) | Will strangers express interest? |
+| 7-8 | **Build** | Experiment 2 (team's choice) | Can we validate a second dimension? (pricing, channel, feature) |
+| 8 | **Build** | MVP Presentations | Is our solution coherent? (peer feedback) |
+| 9-10 | **Build** | Experiment 3 (team's choice) | Can we improve on earlier results with a more built product? |
+| 11 | **Measure** | Final Measurement | What story does our data tell? (product frozen, collect pitch data) |
 
 ---
 
@@ -143,34 +151,34 @@ Teams run structured experiments throughout the course:
 - **c4w3** (Feb 3): Team formation
 - **c5w3** (Feb 5): Divergent thinking, idea generation
 
-### Week 4: Validate
-- **c6w4** (Feb 10): User interviews — talk to 5+ potential users
-- **c7w4** (Feb 12): Define audience based on what you learned
+### Week 4: Problem + Solution Validation
+- **c6w4** (Feb 10): Problem + solution interviews — problem discovery first, then pitch concept and gauge reaction
+- **c7w4** (Feb 12): Define target audience from interview learnings
 
-### Week 5: Prototype
-- **c8w5** (Feb 17): Build vaporware site
-- **c9w5** (Feb 19): Wizard of Oz testing
+### Week 5: Solution Validation
+- **c8w5** (Feb 17): Generate brand positions with AI → test with synthetic user pre-flight (personas from interview data, 50 iterations, confidence metrics) → build landing page with winning position
+- **c9w5** (Feb 19): Analyze pre-flight results, refine into one strong landing page
 
-### Weeks 6-7: Build + Test
-- **c10w6** (Feb 24): Run ads to vaporware + start building real MVP
-- **c11w6** (Feb 26): Analyze ad results, continue building
-- **c12w7** (Mar 3): Build sprint
-- **c13w7** (Mar 5): MVP Presentations
+### Week 6: Demand Validation
+- **c10w6** (Feb 24): Drive traffic to landing page (social channels + paid ads) → collect waitlist signups. Hand out dev workflow one-sheet
+- **c11w6** (Feb 26): Analyze demand test results, iterate on page if not converting. Note: changing things over time is not clean experimentation, but startup reality — teach this tension explicitly
 
-### Week 8: Iterate (Pre-Break)
-- **c14w8** (Mar 10): Iterate based on MVP feedback
-- **c15w8** (Mar 12): Continue building
+### Weeks 7-8: Build
+- **c12w7** (Mar 3): Start building real product. WoZ/concierge only for hard problems (cold-start, algorithms). 10-min dev workflow intro
+- **c13w7** (Mar 5): Build sprint. Design and launch experiment 2
+- **c14w8** (Mar 10): Build sprint. Review experiment 2 results
+- **c15w8** (Mar 12): **MVP Presentations** + peer feedback (deadline before spring break)
 
 ### SPRING BREAK (Mar 16-20)
 
-### Weeks 9-10: Scale
-- **c16w9** (Mar 24): Build sprint (single class due to holiday)
-- **c17w10** (Mar 31): Second ad campaign
-- **c18w10** (Apr 2): Analytics deep dive
+### Weeks 9-10: Iterate + Scale
+- **c16w9** (Mar 24): Post-break check-in. Plan experiment 3 (single class due to holiday)
+- **c17w10** (Mar 31): Run experiment 3
+- **c18w10** (Apr 2): Analyze results. **Feature freeze**
 
-### Week 11: Polish
-- **c19w11** (Apr 7): Final user testing
-- **c20w11** (Apr 9): Integrate feedback, prepare for feature freeze
+### Week 11: Measure + Narrative
+- **c19w11** (Apr 7): Final measurement round — product is frozen, collect usage data, quotes, metrics for pitch
+- **c20w11** (Apr 9): Build pitch narrative from experiment results
 
 ### Weeks 12-13: Ship
 - **c21w12** (Apr 14): Build presentations
